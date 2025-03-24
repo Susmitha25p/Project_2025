@@ -17,7 +17,6 @@ The necessary libraries are listed and imported within the notebook. Typical dep
 - Pandas
 - Scikit-Learn
 - Matplotlib
-- TensorFlow/Keras (if deep learning models are used)
 
 ## Running the Notebook
 
